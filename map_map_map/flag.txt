@@ -1,0 +1,1 @@
+pwned{2_degree_isogeny_map}

@@ -1,3 +1,9 @@
+# c0mm0n_problems
+This was a challenge I cooked up while experimenting with sage and figuring out some stuff. Also elliptic curves my beloved.
+
+
+## Author Writeup
+
 Look at edwards curve Doubling formula on wikipedia 
 
 https://en.wikipedia.org/wiki/Edwards_curve

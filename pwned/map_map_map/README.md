@@ -1,0 +1,1 @@
+This was my attempt at finding weird isogenies, I am ended up making it tad too difficult in the end, the solution script looks easy but in hind-sight I should of made it much clearer what the challenge was.
